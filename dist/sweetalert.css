@@ -18,8 +18,7 @@ body.stop-scrolling {
 
 .sweet-alert {
   background-color: white;
-  font-family: 'Open Sans', 'Helvet
-    ica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   width: 478px;
   padding: 17px;
   border-radius: 5px;
@@ -215,8 +214,8 @@ body.stop-scrolling {
   .sweet-alert[data-has-confirm-button=false][data-has-cancel-button=false] {
     padding-bottom: 40px; }
   .sweet-alert .sa-icon {
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     border: 4px solid gray;
     -webkit-border-radius: 40px;
     border-radius: 40px;
@@ -322,8 +321,8 @@ body.stop-scrolling {
         -webkit-transform-origin: 0px 60px;
         transform-origin: 0px 60px; }
       .sweet-alert .sa-icon.sa-success .sa-placeholder {
-        width: 80px;
-        height: 80px;
+        width: 120px;
+        height: 120px;
         border: 4px solid rgba(165, 220, 134, 0.2);
         -webkit-border-radius: 40px;
         border-radius: 40px;
